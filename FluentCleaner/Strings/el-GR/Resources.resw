@@ -11,7 +11,7 @@
        Each translator fills this in their own Strings\{lang}\Resources.resw,
        e.g.: Translation: Jane Doe · jane.example.com
   ============================================================ -->
-  <data name="LblTranslatorCredit"><value></value></data>
+  <data name="LblTranslatorCredit"><value>Μετάφραση: Theo Asimakopoulos</value></data>
 
   <!-- ============================================================
        MAIN WINDOW
